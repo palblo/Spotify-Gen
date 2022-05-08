@@ -13,7 +13,7 @@ print(Colorate.Vertical(Colors.purple_to_red, f'''
                                                                                                   
 ╔═╗╔═╗╔═╗╔╦╗╦╔═╗╦ ╦  ┌─┐┌─┐┌┐┌
 ╚═╗╠═╝║ ║ ║ ║╠╣ ╚╦╝  │ ┬├┤ │││
-╚═╝╩  ╚═╝ ╩ ╩╚   ╩   └─┘└─┘┘└┘              
+╚═╝╩  ╚═╝ ╩ ╩╚   ╩   └─┘└─┘┘└┘ By Pąblo#4316             
 '''))
 
 print(Colorate.Vertical(Colors.red_to_white, f'''                                                                                              
