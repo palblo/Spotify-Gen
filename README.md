@@ -3,7 +3,7 @@
 pip3 install pystyle
 ```
 ```sh
-git clone https://github.com/l0r3n7o00/DiscordWebhookSpammer.git
+git clone https://github.com/palblo/SpotifyGen.git
  ```
  
 # use
