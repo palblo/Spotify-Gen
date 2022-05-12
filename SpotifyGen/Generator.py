@@ -13,7 +13,9 @@ print(Colorate.Vertical(Colors.purple_to_red, f'''
                                                                                                   
 ╔═╗╔═╗╔═╗╔╦╗╦╔═╗╦ ╦  ┌─┐┌─┐┌┐┌
 ╚═╗╠═╝║ ║ ║ ║╠╣ ╚╦╝  │ ┬├┤ │││
-╚═╝╩  ╚═╝ ╩ ╩╚   ╩   └─┘└─┘┘└┘ By Pąblo#4316             
+╚═╝╩  ╚═╝ ╩ ╩╚   ╩   └─┘└─┘┘└┘ By Pąblo#4316      
+
+Pąblo#4316 | https://github.com/palblo/SpotifyGen
 '''))
 
 print(Colorate.Vertical(Colors.red_to_white, f'''                                                                                              
