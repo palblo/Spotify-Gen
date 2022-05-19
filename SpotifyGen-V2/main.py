@@ -83,7 +83,7 @@ NOTE #2: to use proxies create a file named proxies.txt
             file = open("generated.txt","a")
             file.write(Email + ":" + password + "\n")
             file.close
-    time.sleep(1)
+    time.sleep(2)
     main()
 main()
 
